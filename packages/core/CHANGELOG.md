@@ -1,5 +1,12 @@
 # @usedapp/core
 
+## 1.0.1
+
+### Patch Changes
+
+- e978fd9: 🥌 Add static calls
+- 5067120: 🐯 Solve getting lowercase account number from metamask after changing account
+
 ## 1.0.0
 
 ### Major Changes
